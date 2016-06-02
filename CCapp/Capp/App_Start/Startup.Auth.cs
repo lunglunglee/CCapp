@@ -47,16 +47,16 @@ namespace Capp
 
             // 註銷下列各行以啟用利用協力廠商登入提供者登入
             //app.UseMicrosoftAccountAuthentication(
-            //    clientId: "",
-            //    clientSecret: "");
+            //    clientId: "donlee",
+            //    clientSecret: "Kwbe9999!");
 
             //app.UseTwitterAuthentication(
-            //   consumerKey: "",
-            //   consumerSecret: "");
+            //   consumerKey: "AC8ed96bbfc9cabcf43893e9ab2d93aaec",
+            //   consumerSecret: "c1c137d35c03ef3175bf53096d9ded07");
 
             //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            //   appId: "698912096914877",
+            //   appSecret: "3fbef9d4c1fedfcce63cec435bb38400");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{

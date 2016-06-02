@@ -47,8 +47,8 @@ namespace Capp
 
             // 註銷下列各行以啟用利用協力廠商登入提供者登入
             //app.UseMicrosoftAccountAuthentication(
-            //    clientId: "donlee",
-            //    clientSecret: "Kwbe9999!");
+            //    clientId: "AC8ed96bbfc9cabcf43893e9ab2d93aaec",
+            //    clientSecret: "c1c137d35c03ef3175bf53096d9ded07!");
 
             //app.UseTwitterAuthentication(
             //   consumerKey: "AC8ed96bbfc9cabcf43893e9ab2d93aaec",

@@ -60,8 +60,8 @@ namespace CCapp
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
-            //    ClientId = "",
-            //    ClientSecret = ""
+            //    ClientId = "450536626592-t9lsagmgcu7h8horef4e7kg7v9fcsob0.apps.googleusercontent.com",
+            //    ClientSecret = "EivkoeS_O6OW8fuYoswTsdH4"
             //});
         }
     }
